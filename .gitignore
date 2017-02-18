@@ -1,0 +1,16 @@
+.DS_Store
+.classpath
+.idea
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+*.log
+*.pyc
+*.swp
+*~
+logs
+node_modules
+target
+dependency-reduced-pom.xml

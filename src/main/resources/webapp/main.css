@@ -1,0 +1,30 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.row {
+    display: block;
+    clear: both;
+    float: none;
+}
+
+.row .column {
+    margin: -5px;
+}
+
+.column {
+    float: left;
+    display: block;
+    clear: none;
+    background: rgba(200, 200, 200, 1);
+}
+
+.column.half {
+    display: block;
+    width: 48.9999%;
+}
+
+.column div {
+    padding: 15px;
+}
